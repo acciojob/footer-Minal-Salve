@@ -1,1 +1,39 @@
 /* your code here */
+.content{
+	background-color:black;
+	padding:20px;
+}
+
+.top{
+	display:flex;
+	justify-content:space-between;
+	margin:10px;
+}
+.logo-details{
+	width:300px;
+}
+.logo_name{
+	color:white;
+	font-size:30px;
+}
+.media-icons img{
+	margin:5px;	
+}
+
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+}
+
+.content-links{
+	color:white;
+	margin:18px;
+}
+
+.bottom-details{
+	background-color:grey;
+	display:flex;
+	justify-content:space-between;
+	padding:0px 20px;
+	color:white;
+}
